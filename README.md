@@ -11,6 +11,6 @@ Metric Used : Because the dataset is imbalanced , I would go for confusin matrix
 
 HOW TO RUN THE CODE: The last cell of this notebook consists API code. Copy the code in a separate file named main.py. Install the dependencies - requirements.txt Simply run the command - uvicorn main:app --reload
 
-The API can take multiple nested inputs. Tested the API on 10 unseen data points.Below is the output:
+The API can take multiple nested inputs. Tested the API on 10 unseen data points.You may find the output at the very end of the jupyter notebook.
 
 A LOT CAN BE DONE , THIS IS JUST LIKE A QUICK POC , WHICH NEEDS TO PRESENTED TO THE CLIENT :)
